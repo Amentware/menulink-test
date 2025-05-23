@@ -34,3 +34,4 @@ export type RestaurantSummary = {
   isPublic: boolean;
   isBlocked: boolean;
 };
+
